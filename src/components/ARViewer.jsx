@@ -1,6 +1,6 @@
 <<<<<<< HEAD
 import React, { useRef, useEffect } from 'react';
-import { init } from '../utils/main';
+import { init } from '../main';
 
 const ARViewer = () => {
   const videoRef = useRef(null);
